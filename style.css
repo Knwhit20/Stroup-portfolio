@@ -1,0 +1,10 @@
+.nav-link {
+    color: white;
+}
+.navbar {
+    padding: 30px;
+    font-family: 'Domine', serif;
+}
+#name {
+    font-size: 25px;
+}
